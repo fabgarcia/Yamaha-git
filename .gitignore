@@ -70,3 +70,7 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+YamahaShowroom/Assets/Oculus/OculusProjectConfig.asset
+YamahaShowroom/ProjectSettings/QualitySettings.asset
+YamahaShowroom/Assets/Oculus/OculusProjectConfig.asset
+YamahaShowroom/ProjectSettings/QualitySettings.asset
